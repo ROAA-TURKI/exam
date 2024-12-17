@@ -1,0 +1,14 @@
+c:\Users\roaat\OneDrive\سطح المكتب\Exam 17-12\Exam r\bin\Debug\net8.0\Exam r.exe
+c:\Users\roaat\OneDrive\سطح المكتب\Exam 17-12\Exam r\bin\Debug\net8.0\Exam r.deps.json
+c:\Users\roaat\OneDrive\سطح المكتب\Exam 17-12\Exam r\bin\Debug\net8.0\Exam r.runtimeconfig.json
+c:\Users\roaat\OneDrive\سطح المكتب\Exam 17-12\Exam r\bin\Debug\net8.0\Exam r.dll
+c:\Users\roaat\OneDrive\سطح المكتب\Exam 17-12\Exam r\bin\Debug\net8.0\Exam r.pdb
+c:\Users\roaat\OneDrive\سطح المكتب\Exam 17-12\Exam r\obj\Debug\net8.0\Exam r.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\roaat\OneDrive\سطح المكتب\Exam 17-12\Exam r\obj\Debug\net8.0\Exam r.AssemblyInfoInputs.cache
+c:\Users\roaat\OneDrive\سطح المكتب\Exam 17-12\Exam r\obj\Debug\net8.0\Exam r.AssemblyInfo.cs
+c:\Users\roaat\OneDrive\سطح المكتب\Exam 17-12\Exam r\obj\Debug\net8.0\Exam r.csproj.CoreCompileInputs.cache
+c:\Users\roaat\OneDrive\سطح المكتب\Exam 17-12\Exam r\obj\Debug\net8.0\Exam r.dll
+c:\Users\roaat\OneDrive\سطح المكتب\Exam 17-12\Exam r\obj\Debug\net8.0\refint\Exam r.dll
+c:\Users\roaat\OneDrive\سطح المكتب\Exam 17-12\Exam r\obj\Debug\net8.0\Exam r.pdb
+c:\Users\roaat\OneDrive\سطح المكتب\Exam 17-12\Exam r\obj\Debug\net8.0\Exam r.genruntimeconfig.cache
+c:\Users\roaat\OneDrive\سطح المكتب\Exam 17-12\Exam r\obj\Debug\net8.0\ref\Exam r.dll
